@@ -1,4 +1,4 @@
-<!-- # -Advantages of Vue.js
+# -Advantages of Vue.js
 
 ## Context
 
@@ -94,4 +94,4 @@ This simple example demonstrates how Vue.js allows you to create reusable compon
         el: '#app'
     });
 ```
- -->
+
